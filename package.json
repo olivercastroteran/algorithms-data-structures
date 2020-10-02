@@ -18,5 +18,8 @@
   "homepage": "https://github.com/olivercastroteran/algorithms-data-structures#readme",
   "devDependencies": {
     "performance-now": "^2.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4"
   }
 }
